@@ -1,0 +1,2 @@
+# YQcaptchas
+pass captchas
